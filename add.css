@@ -85,14 +85,15 @@ body {
 
 @media (max-width: 700px) {
   .slider .wrapper .left > div h2 {
-    font-size: 28px;
+    font-size: 30px;
   }
 
   .slider .wrapper .left > div p {
-    font-size: 10px;
+    font-size: 12px;
+    align-items: center;
   }
 
   .slider .wrapper .left > div {
-    padding: 0px 45px 0px 10px;
+    padding: 0px 55px 0px 10px;
   }
 }
