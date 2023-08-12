@@ -82,3 +82,13 @@ body {
 .slider .wrapper .right div:nth-child(1) {
   margin-top: -400vh;
 }
+
+@media (max-width: 700px) {
+  .slider .wrapper .left > div h2 {
+    font-size: 28px;
+  }
+
+  .slider .wrapper .left > div p {
+    font-size: 10px;
+  }
+}
